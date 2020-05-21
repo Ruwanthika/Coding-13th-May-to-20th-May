@@ -1,0 +1,3 @@
+// Only change code below this line
+var myArray = [];
+var myArray = [["Red Birds",30],["blue birds",18]]

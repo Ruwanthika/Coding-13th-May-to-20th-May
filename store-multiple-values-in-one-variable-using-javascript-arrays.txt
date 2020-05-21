@@ -1,0 +1,4 @@
+// Only change code below this line
+var myArray = [];
+
+var myArray = ["bread", 1 ,"jelly", 2 ,"peanut butter", 3];
